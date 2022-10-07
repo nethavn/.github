@@ -1,4 +1,4 @@
-![nethavn logo](https://avatars.githubusercontent.com/u/13380179?s=200)
+![nethavn logo](https://adm.nethavn.com/static/brand/logo.svg)
 Welcome to the GitHub page of nethavn. 
 
 This is where open-source thrives and floats. <br>
