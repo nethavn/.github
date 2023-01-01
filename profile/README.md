@@ -1,4 +1,4 @@
-![nethavn logo](https://adm.nethavn.com/static/brand/wordmark.svg?)
+![nethavn logo](https://adm.nethavn.com/static/brand/logo-combined.svg?)
 Welcome to the GitHub page of nethavn. 
 
 This is where open-source thrives and floats. <br>
