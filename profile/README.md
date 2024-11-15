@@ -11,4 +11,5 @@ Please note that nethavn's open source projects are governed by the [code of con
 
 ## Questions?
 
-Feel free to reach out to us via [https://go.nethavn.com/help](https://go.nethavn.com/help)
+Feel free to reach out to us via [https://go.nethavn.com/help](https://go.nethavn.com/help) <br>
+Or stop by the #nethavn channel on the Libera Chat.
