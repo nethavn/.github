@@ -1,4 +1,4 @@
-<img src="https://adm.nethavn.com/static/brand/logo-combined-inverted.svg" width="450" alt="nethavn logo" />
+<img src="https://adm.nethavn.com/static/brand/logo-combined-inverted.svg?" width="450" alt="nethavn logo" />
 Welcome to the GitHub page of nethavn. 
 
 This is where open-source thrives and floats. <br>
@@ -13,3 +13,4 @@ Please note that nethavn's open source projects are governed by the [code of con
 
 Feel free to reach out to us via [https://go.nethavn.com/help](https://go.nethavn.com/help) <br>
 Or stop by the #nethavn channel on the Libera Chat.
+
